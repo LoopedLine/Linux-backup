@@ -42,7 +42,7 @@ script_info() {
 
 
 # FUNCTION
-#  Creates backup of .bashrc file.
+# Creates backup of .bashrc file.
 create_backup_files() {
 	
 	cd $inquiry_top_directory
